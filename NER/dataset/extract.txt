@@ -1,0 +1,141 @@
+RESUME                                                Vishal Arora
+233-544-5432
+validation@gmail.com
+
+
+
+Technical Summary and Career Objective
+Bachelor of Technology in Electronics and Communication Engineering (BTech), with around 15 years of industrial exposure presently working with RPAOrganisation India Ltd, Noida, as a Technical Architect/Engineering Manager.
+
+EDUCATION
+DELHI College of Engineering (DCE),
+Bachelor of  Technology, Computer Science, 80%		                     June 2002-March 2006
+AIR FORCE BAL BHARTI,
+12th, Science and Computer Science, 81%				       March 2000-March 2002
+AIR FORCE BAL BHARTI,
+10th, 82%								      March 1999-March 2000
+
+
+Domain Expertise
+System Analysis/Design	Design/Development of the software system to enable them to integrate with other disaperate systems.
+Programming Languages/Skills	SOA, Apache Kafka, Apache Nifi, HDFS, Amazon Web Servcies-S3, EC2, AWS Kinesis Streams, Cloudwatch, Redshift, AWS java SDK, Coherence, Core Java, JDBC, Oracle PLSQL, Oracle Forms, Oracle Reports, Hibernate, Toplink, AIA (Communication PIP), Oracle BPM/Worklist, OSB, Oracle SOA suite, DB2, SQLserver, EBS, Oracle BRM, Web services (SOAP, REST), JaxWS, JaxRS, JaxRPC, OAM, IDM, Jenkins, ant build tools, Xslt, Xquery, GIT, Clearcase, SVN repositories, Jira, Scrum, Order Management, Microservices based application design, Cloud, TOGAF, Facial Recognition, Haar cascades, Map Reduce, Spark, Oozie, Hadoop, Jcodec, RPA - Uipath, Automation Anywhere, Docker, Java Script
+Databases	Oracle,  SQL (DDL, DML, DCL),PL/SQL (Procedure, Function, Triggers), SQLServer, Hbase, Redshift
+Web Servers/
+App Servers	Oracle Application server, Weblogic (5 environments – 1 admin, 3 managed servers in a 3 node active-active cluster with F5 load balancer), Apache etc
+Operating Systems	Windows 95 / 98 / 2000/ XP, Linux
+
+Integration Expertise (Birds eye)
+Digital transformation of systems - Legacy and new technologies
+Automating workflow systems
+Integrating existing SOA components with new technologies like Kafka, Nifi to increase throughput
+Legacy(File) To Oracle Applications
+Siebel to Oracle BRM (AIA Order to Bill)
+DB2 to Salesforce
+File(File/FTP/SFTP) to Database(Oracle,SQLServer,DB2)
+JSF/ADF(user input) to Webservices (multi system)
+Database(Oracle,SQLServer,DB2) to File(File/FTP/SFTP)
+Legacy to Salesforce
+Siebel to Salesforce
+Java/SOA Applications to AmazonWebservices S3, EC2, Cloudwatch, Kinesis  Streams, Redshift
+Database to webservices (MultiSystem)
+
+ 
+Software Product Development - Xavient - Technical Architect, Aug 2015 to Present
+Client	Neustar - Telecom, Comcast
+Product(s)	Digital Transformation projects - Self Service Portal, Managed Portal, ESR, T2Automation, AppsAutomate
+Technologies/Platforms	BPEL(Workflow - Order Orchestration), Java, Webservices, Jira, Oracle, GIT, Oracle DB, AQ, JMS, BPM, Order management portal, Apache kafka, Apache Nifi (R&D stage), Microservices, Amazon webservices S3, EC2, Cloudwatch, Kinesis  Streams, Redshift, TOGAF, Jcodec, OpenCV, Haar cascades, MapReduce, Spark, Oozie, HDFS, Facial recognition, Message bus, Coherence Cache, RPA - Uipath, Automation Anywhere, Docker
+Description	Client is a service provider in the US providing number porting services to different vendors like AT&T, Verizon, Google, Comcast, TWC etc. The core services were legacy based with BPO and manual teams running the flows, the customer wanted all the services to be automated and digitized.
+Base services are implemented in Java as soap or rest based web services, BPEL is used for Order Orchestration. Integration between different systems and Databases is being carried out using webservice calls, AQ's and wsdl based adapters to decouple the systems as much as possible. Kafka is being used as the distributed queueing mechanism. AWS S3 is used for order archiving and logs store and App servers are hosted on EC2 instances and docker. Logs are monitored using Cloudwatch, AWS Kinesis  Streams is used for order flow as well as logs data sent to analytics systems where jobs are run on them.
+
+Personal Role	Engineering Manager/Architect
+•	Conducted end-to-end assessment of legacy processes for 2 RPA implementations.
+•	Prepared migration strategy and roadmap for transformation of legacy to automated systems.
+•	Led solution design for RPA workflow creation for Tier2 and Support teams.
+•	Led efforts for process reengineering to bring legacy activities  in line to RPA blueprint.
+•	Creating and reviewing RPA process maps for conversion of processes.
+•	 Implemented pilot program in production for production support and BPO teams.
+•	Meeting with telecom company representatives and executives (technical and functional), to understand the current requirement related to product so as to analyze and align it to the vision for the product.
+•	Getting required feedback from the sales team and creating a roadmap for the product.
+•	Provide a blueprint with respect to product roadmap, so as to align it to the business requirements by customers.
+•	Creating the POC and giving demos with the sales team to demo the product as well as automation. Do R&D for presales and implementations.
+•	Design and develop the complete solution and reference Architecture with other technology architects.
+•	Take up scrum master role and assign tasks to each team member in Jira, Lead the scrum call to enable Agile project management.
+•	Lead the offshore/onshore ESR team
+•	Provide Integration Solutions in terms of Architecture and Design.
+•	Necessary Vendor and Stakeholder management.
+•	Project management and metrics.
+•	Responsibility to build capability for Technology solution focusing on new technologies in Telecom.
+•	Contribute and Implement the capability for New Core Product/ End to End Service Line in Global Delivery Center
+•	Design and implement the CI/CD processes and pipeline.
+
+
+
+Software Product Development – Nest India Pvt Ltd- Solution Architect, September 2009 to Aug 2015
+Client	Fortune 10 Organization
+Product (s)	User Access Manager, Security Services, D2O, Data Transfer projects
+Technologies/Platforms	Oracle BPEL(Workflow), Oracle Worklist, JSF, Oracle SOA Suite, OSB, DB2, EBS, SQLServer, Salesforce, Java Webservices (SOAP, REST) - JaxWS, JaxRS, GIT, SVN , Jenkins, BPM, Hibernate, Toplink, SOA, Webservices, Core Java,
+Description	Client works in different fields like manufacturing, real estate, transportation, digital etc, with so many disparate systems, client required a common standards based architecture to automate their legacy and new systems in a loosely coupled fashion.
+The final system implemented was completely automated with minimal user interaction. Agile teams implemented dev ops model to create the common architecture to digitize their existing manual processes based on mails and paper based approvals.
+Personal Role	Solution Architect/Product manager
+•	Getting client requirements and proposing HLD and LLD.
+•	Estimation of projects both current(Enhancements) and new.
+•	Migration from SOA 10g to 11g.
+•	Understand the current integration scenario present in the existing systems.
+•	Create the xsd’s to be used in the project as per business requirement.
+•	Come up and finalize the database design, for the metadata tables to be used by the application.
+•	Design the BPEL processes and architecture and create functional and technical documents .
+•	Development of the Java/BPEL processes.
+•	Oversee the java development work done by the java team, so as the screen functionality is as per business requirement.
+•	Work and time estimation according to the impact of the design or code changes.
+•	Understand and do the impact analysis required if any changes come up.
+•	Fix any issues present.
+•	Estimate time for each task given and allocate resources accordingly.
+•	Conduct trainings for business users during UAT.
+•	Work with vendor, client and offshore team to get the work done.
+•	Work on project architecture and common components.
+•	Project management and metrics.
+•	Pre sales solutioning and estimation for RFP's and new delivery projects.
+•	Configure SOA servers as per standard configuration
+
+ 
+
+Software Product Development - Accenture - Senior Software Engineer, June 2006 To August 2009
+Client(s)	Multiple
+Product (s)	KPN - Glas, Comcast, NH hotels, Time Warner Cable, United Health Group, British Telecom, Oracle Centre Of Excellence, Ahold - Retail Chain Netherland
+Technologies/Platforms	Oracle EBS , Java , Oracle BPEL(Workflow), ESB, SOA, Java webservices (SOAP), AIA, Siebel, Oracle BRM, Oracle Retail (formerly RETEK), Oracle SQL, PLSQL, Oracle Reports, Shell scripting on Unix, JAXB.
+Description	Was responsible of multiple projects, since SOA was new in the market, had to set up each project from scratch and move to the next assignment as soon as the first delivery is done.
+Personal Role	Senior Software Engineer/ Designer/ Developer:
+•	Getting client requirements and proposing HLD and LLD design.
+•	Design common Architecture components.
+•	Requirement gathering for SOA architecture.
+•	Coordination between teams in Accenture as well as with teams of different vendor for development.
+•	Work and time estimation according to the impact of the design or code changes.
+•	Trained new resources in Oracle Fusion, for offshore team.
+•	migration of the Java web services (J2EE 1.2) to J2EE 1.4 web services (JaxRPC), and migration of existing 10.1.0.2v BPEL’s to 10.1.3.3v.
+•	Development SQL,PLSQL, Oracle Reports and Shell scripting. Developed a number of reports according to the functional spec provided by the onsite team.
+•	Setting up of Oracle COE for Accenture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name: Vishal Arora
+Place: New Delhi
+Date:										                 Signature
+

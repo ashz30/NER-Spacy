@@ -1,0 +1,1 @@
+{"lang":"en","name":"bpdxsamplemodel","version":"0.0.0","spacy_version":">=2.2.3","description":"","author":"","email":"","url":"","license":"","vectors":{"width":0,"vectors":0,"keys":0,"name":"bpdxsample"},"pipeline":["ner"],"factories":{"ner":"ner"},"labels":{"ner":["data","degree","email","experience","job role","name","organisation","phone","timeframe"]}}
